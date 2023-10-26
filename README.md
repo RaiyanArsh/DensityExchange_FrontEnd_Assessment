@@ -18,3 +18,11 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Getting Started
+
+Follow these steps to get the project up and running on your local machine:
+
+1. Clone this repository: `git clone https://github.com/RaiyanArsh/DensityExchange_FrontEnd_Assessment.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
+4. Open your browser and visit: `http://localhost:3000`
