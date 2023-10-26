@@ -3,11 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/app/page.js",
-    "server": "node sec/app/page.js",
-    "client": "npm start --prefix ./client",
-    "dev": "concurrently \"npm start\" \"npm run client\""
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   
   "dependencies": {
